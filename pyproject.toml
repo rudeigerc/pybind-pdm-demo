@@ -6,14 +6,14 @@ authors = [
     {name = "rudeigerc", email = "rudeigerc@gmail.com"},
 ]
 classifiers = [
-    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "License :: OSI Approved :: BSD License",
     "Programming Language :: Python :: 3 :: Only",
     "Typing :: Typed",
 ]
 dependencies = []
 requires-python = ">=3.9"
 readme = "README.md"
-license = {text = "GPLv3"}
+license = {text = "BSD"}
 
 [build-system]
 requires = [
