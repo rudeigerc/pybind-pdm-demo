@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "name": "Mac",
+      "includePath": [
+        "${workspaceFolder}/.venv/lib/python3.11/site-packages/pybind11/include",
+        "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/Current/Headers"
+      ],
+      "defines": [],
+      "macFrameworkPath": ["/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"],
+      "compilerPath": "/usr/bin/clang++",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "macos-clang-x64"
+    }
+  ],
+  "version": 4,
+  "enableConfigurationSquiggles": true
+}
